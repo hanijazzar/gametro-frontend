@@ -1,0 +1,195 @@
+.logo-text {
+  font-size: 24px;
+  margin-left: 7px;
+  position: relative;
+  top: 3px;
+}
+.popular_places_area {
+  background: #ebebeb;
+}
+.bradcam_bg_3 {
+  background-image: url('../img/banner/bradcam.png');
+}
+
+.footer .footer_top {
+  padding-top: 115px;
+  padding-bottom: 85px;
+}
+
+.page-section {
+  min-height: 200px;
+}
+
+.header-area .main-header-area .main-menu ul li .submenu li a:hover {
+  color: #1ec6b6;
+}
+
+.form-contact .form-control:focus {
+  border-color: #1ec6b6;
+}
+.contact-section {
+  padding: 55px 0 70px;
+}
+.react-select__control {
+  border-color: #e5e6e9 !important;
+  cursor: pointer !important;
+  border-radius: 0px !important;
+}
+
+.react-select__indicator-separator {
+  display: none;
+}
+.react-select__menu {
+  cursor: pointer !important;
+}
+.react-select__placeholder {
+  color: #999999 !important;
+  /* font-size: 13px; */
+}
+.DayPickerInput {
+  display: block;
+  width: 100%;
+}
+.DayPickerInput input {
+  border: 1px solid #e5e6e9;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+}
+.DayPickerInput input:focus {
+  border: 1px solid #1ec6b6;
+  outline: none;
+}
+.button:disabled, .boxed-btn4:disabled, .genric-btn:disabled {
+  background-color: #ccc;
+  border-color: #ccc;
+  cursor: default;
+}
+.btn-fixed-width {
+  width: 160px;
+}
+
+.bradcam_area_sm {
+  padding: 50px 0;
+}
+
+.bradcam_bg_5 {
+  background-image: url(../img/banner/bradcam5.png);
+}
+
+.bradcam_bg_6 {
+  background-image: url(../img/banner/bradcam6.png);
+}
+.bradcam_bg_7 {
+  background-image: url(../img/banner/bradcam7.jpg);
+}
+.bradcam_bg_8 {
+  background-image: url(../img/banner/bradcam8.jpeg);
+}
+
+
+.alert {
+  position: relative;
+  padding: .75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0px;
+}
+.alert-danger {
+  background-color: #ff4a52;
+  color: white;
+}
+.alert-success {
+  background-color: #1EC6B6;
+  color: white;
+}
+.filter_result_wrap .filter_bordered {
+  background-color: white;
+}
+.game_banner_wrap {
+  padding: 170px 0px;
+}
+.about_story {
+  padding: 55px 0 70px;
+
+}
+.form-contact .form-group {
+  margin-bottom: 15px;
+}
+.popular_places_area {
+  padding-top: 80px;
+}
+
+.popular_places_area_less_padding {
+  padding-top: 50px;
+}
+.modal {
+  transition: 0.3s;
+}
+.modal.show {
+  display: block;
+}
+.modal-content {
+  border-radius: 0px;
+}
+.genric-btn-sm {
+  line-height: 27px;
+  padding: 0 10px;
+}
+.custom-file-label {
+  z-index: unset;
+}
+.page-item.active .page-link {
+  background-color: #1EC6B6;
+  border-color: #1EC6B6;
+
+}
+.page-link {
+  color: #1EC6B6;
+}
+
+.page-link:hover {
+  color: white;
+  background-color: #1EC6B6;
+}
+
+.page-item {
+  margin: 0 2px;
+}
+.popular_places_area .single_place .thumb img {
+  min-height: 196.6px;
+}
+.logo-header {
+  width: 30px;
+}
+.banner-1 {
+  background-image: url(../img/banners/banner1.jpg);
+}
+.banner-2 {
+  background-image: url(../img/banners/banner2.jpg);
+}
+.banner-3 {
+  background-image: url(../img/banners/banner3.jpg);
+}
+.banner-4 {
+  background-image: url(../img/banners/banner4.jpg);
+}
+.banner-5 {
+  background-image: url(../img/banners/banner5.jpg);
+}
+.banner-5 {
+  background-image: url(../img/banners/banner6.jpg);
+}
+.banner-6 {
+  background-image: url(../img/banners/banner7.jpg);
+}
+.newletter_area {
+  background-image: url(../img/banners/newsletter.png);
+}
+.footer-logo {
+  width: 50px;
+}
+.site-info-logo {
+  width: 70px;
+}

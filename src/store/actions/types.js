@@ -1,0 +1,40 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const GET_PROFILE = 'GET_PROFILE';
+export const GET_PROFILES = 'GET_PROFILES';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const CLEAR_PROFILE = 'CLEAR_PROFILE';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+export const ACCOUNT_DELETED = 'ACCOUNT_DELETED';
+
+export const GET_GAMES = 'GET_GAMES';
+export const GET_GAME = 'GET_GAME';
+export const ADD_GAME = 'ADD_GAME';
+export const SAVE_GAME = 'SAVE_GAME';
+export const DELETE_GAME = 'DELETE_GAME';
+export const GAME_ERROR = 'GAME_ERROR';
+export const SET_LOADING = 'SET_LOADING';
+export const SET_BTN_LOADING = 'SET_BTN_LOADING';
+
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const ADD_CONTACT = 'ADD_CONTACT';
+export const CONTACT_ERROR = 'CONTACT_ERROR';
+
+export const GET_SUBSCRIBERS = 'GET_SUBSCRIBERS';
+export const ADD_SUBSCRIBER = 'ADD_SUBSCRIBER';
+export const SUBSCRIBE_ERROR = 'SUBSCRIBE_ERROR';
+
+export const FORM_JUST_SUBMITTED = 'FORM_JUST_SUBMITTED';
+export const FORM_SUBMISSION_SUCCESS = 'FORM_SUBMISSION_SUCCESS';
+export const FORM_SUBMISSION_FAIL = 'FORM_SUBMISSION_FAIL';
+
+
+
+
