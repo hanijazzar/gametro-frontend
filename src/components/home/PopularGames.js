@@ -23,7 +23,7 @@ const PopularGames = ({
             <div className='col-lg-6'>
               <div className='section_title text-center mb_70'>
                 <h3>Latest Games </h3>
-                <p>Check out the latest posted games</p>
+                <p>Check out the latest added games</p>
               </div>
             </div>
           </div>
